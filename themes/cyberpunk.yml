@@ -28,18 +28,18 @@ perms:
   attribute: {foreground: "#e0e0e0"}
 
 size:
-  major: {foreground: "#e09abe", is_bold: true}
-  minor: {foreground: "#c743cf"}
+  major: {foreground: "#ff7ac6", is_bold: true}
+  minor: {foreground: "#ff92df"}
   number_byte: {foreground: "#e0e0e0", is_bold: true}
-  number_kilo: {foreground: "#e09abe", is_bold: true}
-  number_mega: {foreground: "#e09abe", is_bold: true}
-  number_giga: {foreground: "#db5ba6", is_bold: true}
-  number_huge: {foreground: "#db5ba6", is_bold: true}
+  number_kilo: {foreground: "#ff79c6", is_bold: true}
+  number_mega: {foreground: "#db5ba6", is_bold: true}
+  number_giga: {foreground: "#c743cf", is_bold: true}
+  number_huge: {foreground: "#ff92df", is_bold: true}
   unit_byte: {foreground: "#e0e0e0"}
-  unit_kilo: {foreground: "#e09abe"}
+  unit_kilo: {foreground: "#ff7ac6"}
   unit_mega: {foreground: "#db5ba6"}
-  unit_giga: {foreground: "#db5ba6"}
-  unit_huge: {foreground: "#e09abe"}
+  unit_giga: {foreground: "#c743cf"}
+  unit_huge: {foreground: "#ff92df"}
 
 users:
   user_you: {foreground: "#51bce6", is_bold: true}
