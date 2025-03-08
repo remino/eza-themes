@@ -43,7 +43,7 @@ size:
 
 users:
   user_you: {foreground: "#51bce6", is_bold: true}
-  user_root: {foreground: "#e0e0e0"}
+  user_root: {foreground: "#ff79c6", is_bold: true}
   user_other: {foreground: "#e0e0e0"}
   group_yours: {foreground: "#51bce6", is_bold: true}
   group_other: {foreground: "#424242"}
