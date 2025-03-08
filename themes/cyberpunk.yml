@@ -89,7 +89,7 @@ file_type:
   source: {foreground: "#e09abe", is_bold: true}
 
 punctuation: {foreground: "#424242", is_bold: true}
-date: {foreground: "#7a80f7"}
+date: {foreground: "#51bce6"}
 inode: {foreground: "#c743cf"}
 blocks: {foreground: "#7a80f7"}
 header: {foreground: "#e0e0e0", is_underline: true}
